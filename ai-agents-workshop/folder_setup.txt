@@ -1,0 +1,11 @@
+ai-agents-workshop/
+│
+├── backend/
+│   ├── app.py
+│   ├── agents/
+│   │   ├── root_agent.py
+│   ├── requirements.txt
+│   └── .env
+│
+├── frontend/
+│   ├── frontend.html
