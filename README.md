@@ -7,3 +7,5 @@ Install requiements : pip3 install -r requirements.txt
 
 Run the server: python3 -m uvicorn app:app --reload
 
+
+# Run the frontend using "Live server" extension from the VS code. 
