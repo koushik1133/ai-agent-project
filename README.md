@@ -4,5 +4,6 @@ This project showcases an AI-powered agent that enables natural language interac
 
 # Run the Backend server using:
 Install requiements : pip3 install -r requirements.txt
+
 Run the server: python3 -m uvicorn app:app --reload
 
